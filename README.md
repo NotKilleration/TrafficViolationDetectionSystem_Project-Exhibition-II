@@ -15,9 +15,8 @@ The goal of the project is to automate the traffic rules violation detection sys
 
 ## Quick starting the project
 
-1. `git clone https://github.com/rahatzamancse/EyeTask.git`
-2. Install required python dependencies from `requirements.txt` into your python virtual environment. (`pip install -r requirements.txt`)
-3. `python main.py`
+1. Install required python dependencies from `requirements.txt` into your python virtual environment. (`pip install -r requirements.txt`)
+2. `python main.py`
 
 ## System Overview
 
